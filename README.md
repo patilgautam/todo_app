@@ -1,5 +1,10 @@
-**A Basic TODO app using Python,Django and JavaScript.**
+**_A Basic TODO app using Python,Django and JavaScript._**
 Using this we can create ToDO list,mark it as complete,Delete completed items and Delete all list items.
+
+**_Home Page_**
+![Index Page](https://github.com/gautamp25/todo_app/blob/master/index.png)
+
+
 
 **Create Virtual Environment in Windows**
 1.virtualenv name-env 
